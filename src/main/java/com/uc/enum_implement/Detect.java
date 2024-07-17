@@ -14,9 +14,11 @@ public class Detect {
     private Check down=Check.NOTAVAILABLE;
 
     public static void main(String[] args) {
-   /*     Detect detect= new Detect();
+        Detect detect= new Detect();
         detect.setLeft(Check.AVAILABLE);
         System.out.println(detect.getDown());
-        System.out.println(detect.getLeft());*/
+        System.out.println(detect.getLeft());
+        Operation right=Days.Monday;
+        System.out.println(right.getDay());
     }
 }

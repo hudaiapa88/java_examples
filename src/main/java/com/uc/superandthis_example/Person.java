@@ -12,7 +12,12 @@ public class Person extends Id {
 
     public Person(Long id, String firstname, String lastname) {
         super(id);
+
         this.firstname = firstname;
         this.lastname = lastname;
+    }
+    private void access(){
+         super.id=1L;
+         
     }
 }

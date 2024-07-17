@@ -4,7 +4,7 @@ public enum Days implements Operation{
     Monday{
         @Override
         public String getDay() {
-            return "Monday";
+            return this.name();
         }
     },
     Tuesday{

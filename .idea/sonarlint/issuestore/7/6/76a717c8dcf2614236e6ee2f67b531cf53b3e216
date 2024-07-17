@@ -1,4 +1,4 @@
 
-Q	java:S125"<This block of commented-out lines of code should be removed.(Åä’„
-E
-java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+L	java:S106"+Replace this use of System.out by a logger.(åèÁıÿÿÿÿ8ñÄ‘ºÒ1
+G	java:S106"+Replace this use of System.out by a logger.(Ÿ³Œí8óÄ‘ºÒ1
+L	java:S106"+Replace this use of System.out by a logger.(ËóŠ±ùÿÿÿÿ8Å™²§Ô1
